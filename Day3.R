@@ -1,4 +1,4 @@
-file_path <- "C:/Users/idtre/Desktop/AdventOfCode/input3.txt"
+file_path <- "C:/Users/..."
 text <- readLines(file_path)
 text_combined <- paste(text, collapse = "")
 library(stringr)
